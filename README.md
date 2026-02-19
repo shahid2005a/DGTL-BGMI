@@ -1,4 +1,4 @@
-
+![logo](https://github.com/shahid2005a/DGTL-BGMI/blob/main/Dgtlbgmi.png)
 ###  𝗧𝗲𝗿𝗺𝘂𝘅 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝗯𝗲𝗹𝗼𝘄
 
 ```sh
@@ -25,10 +25,14 @@ chmod +x *
 ```sh
 ./setup.sh
 ```
-Now to use this tool you will be automatically redirected to our YouTube channel do subscribe,
-click on Bell icon and come back to Termux and you Will be able to use this tool for free
+## 📌 Contact Me  
 
-Watch the video if any error 👇🏼👇🏼👇🏼
+<a href="https://www.youtube.com/@DigitalCyber-c5n">
+  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
+</a>  
+<br>
 
-Hope & You Love the tool 𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼
-https://chat.whatsapp.com/Ha3goS71RamKMeCq2CJLwe
+<a href="https://t.me/GsmhackerBot">
+  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+</a>  
+<br>
