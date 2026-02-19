@@ -1,8 +1,5 @@
-### 𝗛𝗲𝘆 𝗛𝗶 𝗚𝘂𝘆𝘀 😎
 
-### 𝗛𝗮𝗰𝗸 𝗮𝗻𝘆𝗼𝗻𝗲'𝘀 𝗕𝗚𝗠𝗜 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗷𝘂𝘀𝘁 𝗯𝘆 𝘀𝗲𝗻𝗱𝗶𝗻𝗴 𝗮 𝗟𝗶𝗻𝗸
-
-### 𝗧𝗼 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘁𝗵𝗶𝘀 𝘁𝗼𝗼𝗹 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗧𝗲𝗿𝗺𝘂𝘅 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝗯𝗲𝗹𝗼𝘄 👇🏼
+###  𝗧𝗲𝗿𝗺𝘂𝘅 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝗯𝗲𝗹𝗼𝘄
 
 ```sh
 apt update && apt upgrade
@@ -17,10 +14,10 @@ pkg install python
 pip install pyfiglet termcolor
 ```
 ```sh
-git clone https://github.com/Hackerscolonyofficial/HCO-BGMI-Hacks.git
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
 ```
 ```sh
-cd HCO-BGMI-Hacks
+cd DGTL-BGMI
 ```
 ```sh
 chmod +x *
