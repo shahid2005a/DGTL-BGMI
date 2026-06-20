@@ -1,34 +1,45 @@
-![logo](https://github.com/shahid2005a/DGTL-BGMI/blob/main/Dgtlbgmi.png)
-###  𝗧𝗲𝗿𝗺𝘂𝘅 𝗳𝗼𝗹𝗹𝗼𝘄 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝗯𝗲𝗹𝗼𝘄
+DGTL BGMI REPO 
 
-```sh
-apt update && apt upgrade
+![logo](https://github.com/shahid2005a/DGTL-BGMI/blob/main/DGTL%20BGMI/BGMI.png)
+
+### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
 ```
-```sh
-pkg install git
-```
-```sh
-pkg install python
-```
-```sh
-pip install pyfiglet termcolor
-```
-```sh
+
+pkg update && pkg upgrade -y
+
+
+termux-setup-storage
+
+
+pkg install python git -y
+
+
+pkg install cloudflared -y
+
+
+pip install pyperclip
+
+
 git clone https://github.com/shahid2005a/DGTL-BGMI.git
+
 ```
-```sh
+
+```
 cd DGTL-BGMI
 ```
-```sh
-chmod +x *
 ```
-```sh
-./setup.sh
+python Dgtlbgmi.py
 ```
+
+### 𝕋𝕖𝕣𝕞𝕦𝕩 𝕊𝕚𝕟𝕘𝕒𝕝𝕖 ℂ𝕠𝕞𝕞𝕒𝕟𝕕 𝕚𝕟𝕤𝕥𝕒𝕝𝕝
+```
+pkg update && pkg upgrade -y; termux-setup-storage; pkg install python git -y; pkg install cloudflared -y; pip install pyperclip; git clone https://github.com/shahid2005a/DGTL-BGMI.git; cd DGTL-BGMI && python main.py
+```
+
 ## 📌 Contact Me  
 
-<a href="https://www.youtube.com/@DigitalCyber-c5n">
-  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
+<a href="https://www.youtube.com/@aryanafridi00">
+  <img src="https://img.shields.io/badge/Aryan Afridi YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Aryan Afridi YouTube">
 </a>  
 <br>
 
@@ -36,3 +47,18 @@ chmod +x *
   <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
 </a>  
 <br>
+
+<div style="text-align:center; background: #0a0a0a; padding: 30px; border-radius: 15px; font-family: Arial;">
+  <h2 style="color: #00ffcc;">⚡ DGTL CYBER ⚡</h2>
+  <p style="color: #fff;">Join the Ultimate Cyber Security Family</p>
+  
+  <a href="https://chat.whatsapp.com/JhSEMaGzYk4GbkvEr2i6WI" target="_blank" style="background: #25D366; color: #fff; padding: 12px 30px; margin: 10px; display: inline-block; border-radius: 30px; text-decoration: none; font-weight: bold;">
+    💬 Join Group
+  </a>
+  
+  <a href="https://whatsapp.com/channel/0029VbD1uw37T8bQVsv5gc2n" target="_blank" style="background: #075E54; color: #fff; padding: 12px 30px; margin: 10px; display: inline-block; border-radius: 30px; text-decoration: none; font-weight: bold;">
+    📢 Follow Channel
+  </a>
+  
+  <p style="color: #888; margin-top: 20px;">Stay Updated. Stay Secure. 🔵</p>
+</div>
