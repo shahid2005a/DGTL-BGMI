@@ -304,12 +304,12 @@ def get_html_form():
 
         <!-- UC Package Selection -->
         <div class="form-group">
-            <label>💎 Select UC Package (Free)</label>
+            <label> Select UC Package (Free)</label>
             <div class="uc-selector">
-                <div class="uc-option" data-uc="60">60 UC💎</div>
-                <div class="uc-option" data-uc="325">325 UC💎</div>
-                <div class="uc-option selected" data-uc="660">660 UC💎</div>
-                <div class="uc-option" data-uc="1800">1800 UC💎</div>
+                <div class="uc-option" data-uc="60">60 UC</div>
+                <div class="uc-option" data-uc="325">325 UC</div>
+                <div class="uc-option selected" data-uc="660">660 UC</div>
+                <div class="uc-option" data-uc="1800">1800 UC</div>
             </div>
         </div>
 
